@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:#ADD8E6;
+	border:2px solid black;
+	padding:50px;
+}
